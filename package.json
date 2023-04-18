@@ -20,6 +20,7 @@
   "homepage": "https://github.com/changkhobanhoa/Couse-Nodejs#readme",
   "dependencies": {
     "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
     "uuid": "^9.0.0"
   }
 }
